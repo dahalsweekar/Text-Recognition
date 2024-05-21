@@ -17,7 +17,7 @@ This repository offers an implementation of text recognition where lstm network 
 | ```--epoch```  | Set number of epochs  |
 | ```--batch_size```  | set batch size  |
 | ```--weights```  | set weights path |
-| ```-dataset```  | set dataset directory  |
+| ```--dataset```  | set dataset directory  |
 | ```--labels```  | set label path  |
 | ```--test_image```  | set single image path  |
 
